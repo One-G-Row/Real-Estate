@@ -7,6 +7,8 @@ import DefaultErrorPage from "next/error";
 import Head from "next/head";
 import { GetStaticProps } from "next";
 
+/* import "../components/BuilderComponents";  */
+
 // Replace with your Public API Key
 builder.init("9be057c5c61949e6b4559deae7f4ea73");
 
